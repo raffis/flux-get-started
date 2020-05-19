@@ -5,7 +5,6 @@ metadata:
   name: mongodb
   namespace: demo
   annotations:
-    fluxcd.io/automated: "false"
     fluxcd.io/tag.chart-image: semver:~4.0
 spec:
   releaseName: mongodb
