@@ -1,0 +1,1 @@
+{"jobID":"63e75cb1-4e12-469e-a27f-412e43c0d923","spec":{"type":"policy","cause":{"Message":"","User":"Raffael Sahli \u003craffael.sahli@doodle.com\u003e"},"spec":{"demo:helmrelease/mongodb":{"add":{},"remove":{"automated":"true"}}}},"result":null}
