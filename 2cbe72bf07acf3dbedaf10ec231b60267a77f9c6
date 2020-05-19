@@ -1,0 +1,1 @@
+{"jobID":"e2990180-4671-57e6-a090-11f42c34c1e4","spec":{"type":"policy","cause":{"Message":"","User":"Raffael Sahli \u003craffael.sahli@doodle.com\u003e"},"spec":{"demo:helmrelease/mongodb":{"add":{"locked":"true","locked_msg":"","locked_user":"Raffael Sahli \u003craffael.sahli@doodle.com\u003e"},"remove":{}}}},"result":null}
